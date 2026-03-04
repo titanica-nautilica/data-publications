@@ -5,7 +5,6 @@ This repository lists published datasets from Titanica oceanographic expeditions
 | Expedition | Year | Location | Data Repository | Published |
 |------------|------|----------|-----------------|-----------|
 | 0000_Template | 0000 | | | |
-| 2003-2008_JOIS | 2003-2008 | | | |
 | 2011_PS78_Arctic | 2011 | | | |
 | 2012_NCC_NorwegianCoast | 2012 | | | |
 | 2012_PS80_Arctic | 2012 | | | |
@@ -35,7 +34,7 @@ This repository lists published datasets from Titanica oceanographic expeditions
 | 2021_BOCATS_Atlantic | 2021 | | | |
 | 2021_FramStrait | 2021 | | | |
 | 2021_Iceland | 2021 | | | |
-| 2021_JOIS_Arctic | 2021 | | | |
+| 2021_JOIS_Arctic | 2021 | Canada Basin - Arctic | Zenodo | https://doi.org/10.5281/zenodo.18860089 |
 | 2021_Metalgate_Iceland | 2021 | | | |
 | 2021_SAS_ArcticVentilation_Arctic | 2021 | | | |
 | 2021_TReX_Deep_Gulf_of_St_Lawrence | 2021 | | | |
@@ -62,7 +61,7 @@ This repository lists published datasets from Titanica oceanographic expeditions
 | 2024_Fukushima_Japan_March | 2024 | | | |
 | 2024_Fukushima_Japan_Oct | 2024 | | | |
 | 2024_Iceland24 | 2024 | | | |
-| 2024_JOIS_Arctic | 2024 | | | |
+| 2024_JOIS_Arctic | 2024 | Canada Basin - Arctic | Zenodo | https://doi.org/10.5281/zenodo.18860089 |
 | 2024_NYA_Himanshu | 2024 | | | |
 | 2024_RAS_Arctic_FramStrait | 2024 | | | |
 | 2024_RV_Skagerag_NorwegianCoast | 2024 | | | |
