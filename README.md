@@ -1,6 +1,6 @@
 # Titanica-Nautilica Expedition Published Datasets
 
-This repository lists published datasets from Titanica-Nautilica oceanographic expeditions. Add the DOI for each dataset in the relevant columns.
+This repository lists published datasets from Titanica-Nautilica oceanographic expeditions. DOIs will be added as datasets become available.
 
 | Expedition | Year | Location | Data Repository | Dataset DOI / Link | Publication DOI |
 |------------|------|----------|-----------------|-------------|-----------------|
