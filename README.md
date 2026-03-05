@@ -27,7 +27,7 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 | 2019_FS2019_FramStrait | 2019 | | | | |
 | 2020_AR7W_LabradorSea | 2020 | | | | |
 | 2020_FramStrait | 2020 | | | | |
-| 2020_JOIS_Arctic | 2020 | Canada Basin - Arctic | MARIS | https://maris.iaea.org/datasets | https://doi.org/10.1029/2023JC020813|
+| 2020_JOIS_Arctic | 2020 | Canada Basin - Arctic | MARIS | https://maris.iaea.org/datasets | [![DOI](https://img.shields.io/badge/DOI-10.1029%2F2023JC020813-blue)](https://doi.org/10.1029/2023JC020813)|
 | 2021_ArcticCentury | 2021 | | | | |
 | 2021_BATS_Atlantic_AMW | 2021 | | | | |
 | 2021_BOCATS_Atlantic | 2021 | | | | |
