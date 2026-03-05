@@ -70,7 +70,7 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 | 2025_EGC_Greenland | 2025 | | | | |
 | 2025_FramStrait | 2025 | | | | |
 | 2025_Fukushima | 2025 | | | | |
-| 2025_JOIS | 2025 | Canada Basin - Arctic | Zenodo | | |
+| 2025_JOIS | 2025 | Canada Basin - Arctic | | | |
 | 2025_Jones_Sound | 2025 | | | | |
 | 2025_UFO | 2025 | | | | |
 | 2025_UNCLOS | 2025 | | | | |
