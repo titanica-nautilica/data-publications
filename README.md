@@ -33,7 +33,7 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 | 2021_BOCATS_Atlantic | 2021 | | | | |
 | 2021_FramStrait | 2021 | | | | |
 | 2021_Iceland | 2021 | | | | |
-| 2021_JOIS_Arctic | 2021 | Canada Basin - Arctic | Zenodo | https://doi.org/10.5281/zenodo.18860088 | |
+| 2021_JOIS_Arctic | 2021 | Canada Basin - Arctic | Zenodo | [![DOI](https://zenodo.org/badge/1172342537.svg)](https://doi.org/10.5281/zenodo.18860088)| |
 | 2021_Metalgate_Iceland | 2021 | | | | |
 | 2021_SAS_ArcticVentilation_Arctic | 2021 | | | | |
 | 2021_TReX_Deep_Gulf_of_St_Lawrence | 2021 | | | | |
@@ -43,14 +43,14 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 | 2022_FramStrait_Spring | 2022 | | | | |
 | 2022_GEOTRACES_Pacific | 2022 | | | | |
 | 2022_Iceland22 | 2022 | | | | |
-| 2022_JOIS_Arctic | 2022 | Canada Basin - Arctic | Zenodo | | |
+| 2022_JOIS_Arctic | 2022 | Canada Basin - Arctic | Zenodo | [![DOI](https://zenodo.org/badge/1173615504.svg)](https://doi.org/10.5281/zenodo.18880590)| |
 | 2022_Shinsei-maru_Japan | 2022 | | | | |
 | 2022_TAlPro22_MedSea | 2022 | | | | |
 | 2023_AR7W_LabradorSea | 2023 | | | | |
 | 2023_FramStrait | 2023 | | | | |
 | 2023_Fukushima_Japan | 2023 | | | | |
 | 2023_GrandBanks | 2023 | | | | |
-| 2023_JOIS_Arctic | 2023 | Canada Basin - Arctic | Zenodo | | |
+| 2023_JOIS_Arctic | 2023 | Canada Basin - Arctic | Zenodo | [![DOI](https://zenodo.org/badge/1173615346.svg)](https://doi.org/10.5281/zenodo.18880776)| |
 | 2024_AR7W | 2024 | | | | |
 | 2024_ArcticOcean | 2024 | | | | |
 | 2024_Baffin_Bay_Amundsen | 2024 | | | | |
@@ -60,7 +60,7 @@ This repository lists published datasets from Titanica-Nautilica oceanographic e
 | 2024_Fukushima_Japan_March | 2024 | | | | |
 | 2024_Fukushima_Japan_Oct | 2024 | | | | |
 | 2024_Iceland24 | 2024 | | | | |
-| 2024_JOIS_Arctic | 2024 | Canada Basin - Arctic | Zenodo | https://doi.org/10.5281/zenodo.18860210 | |
+| 2024_JOIS_Arctic | 2024 | Canada Basin - Arctic | Zenodo | [![DOI](https://zenodo.org/badge/1172343061.svg)](https://doi.org/10.5281/zenodo.18860210) | |
 | 2024_NYA_Himanshu | 2024 | | | | |
 | 2024_RAS_Arctic_FramStrait | 2024 | | | | |
 | 2024_RV_Skagerag_NorwegianCoast | 2024 | | | | |
